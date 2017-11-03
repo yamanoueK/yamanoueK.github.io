@@ -1,0 +1,61 @@
+body{
+	font-family: "Yu Gothic", YuGothic;
+	color: white;
+	background: #222222;
+}
+
+ul {
+  list-style:none;
+}
+
+li {
+	border: 1px solid rgba(123,123,123,0.5);
+	padding: 3px;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+.center{
+	text-align: center;
+}
+
+.html{
+	color: white;
+	background-color: #d35400;
+}
+
+.css3{
+	color: white;
+	background-color: #2980b9;
+}
+
+.js{
+	color: white;
+	background-color: #2c3e50;
+}
+
+.php{
+	color: white;
+	background-color: #46465e;
+}
+
+.vb{
+	color: white;
+	background-color: #0B610B;
+}
+
+.java{
+	color: white;
+	background-color: #B40404;
+}
+
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.other{
+	background-color: #424242;
+}
